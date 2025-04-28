@@ -1,0 +1,14 @@
+# Default bounty when a player joins
+default-bounty: 5000
+
+# How much bounty you lose when dying (either by natural causes or by PvP)
+bounty-loss-on-death: 1000
+
+# How much bounty you gain when killing someone
+bounty-gain-on-kill: 1000
+
+# Should the plugin show particles when gaining or losing bounty?
+show-particles: true
+
+# Should the plugin play sounds on kill or death?
+play-sounds: true

@@ -1,4 +1,14 @@
-name: bountyhunter
-version: '1.0-SNAPSHOT'
+name: BountyHunter
+version: 1.0
 main: org.zskv.bountyhunter.Bountyhunter
-api-version: '1.21'
+api-version: 1.21
+
+commands:
+  bounty:
+    description: Check your bounty or another player's bounty.
+    usage: /bounty [player]
+
+permissions:
+  bountyhunter.bounty:
+    description: Allows use of /bounty command
+    default: true
