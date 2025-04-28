@@ -1,0 +1,4 @@
+name: bountyhunter
+version: '1.0-SNAPSHOT'
+main: org.zskv.bountyhunter.Bountyhunter
+api-version: '1.21'
